@@ -1,0 +1,15 @@
+.headHeading {
+	background: navy;
+	color: white;
+	border: 10px black;
+}
+.bodyHeading {
+	color: navy;
+	border: 10px black;
+}
+
+p {
+	color: inherit;
+	font-size: 30px;
+	font: bold;
+}
